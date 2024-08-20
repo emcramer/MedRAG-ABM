@@ -1,0 +1,149 @@
+No sentence-transformers model found with name /home/users/simsz/.cache/torch/sentence_transformers/ncbi_MedCPT-Query-Encoder. Creating a new one with CLS pooling.
+context length: 500463
+calling generate
+context length: 543945
+calling generate
+context length: 512557
+calling generate
+context length: 503052
+calling generate
+context length: 571176
+calling generate
+context length: 568428
+calling generate
+context length: 521821
+calling generate
+context length: 512430
+calling generate
+context length: 482493
+calling generate
+context length: 545172
+calling generate
+context length: 490775
+calling generate
+context length: 561662
+calling generate
+context length: 503223
+calling generate
+context length: 547531
+calling generate
+context length: 503424
+calling generate
+context length: 478280
+calling generate
+context length: 559198
+calling generate
+context length: 587224
+calling generate
+context length: 552190
+calling generate
+context length: 541111
+calling generate
+context length: 491920
+calling generate
+context length: 563461
+calling generate
+context length: 565899
+calling generate
+context length: 591971
+calling generate
+context length: 551450
+calling generate
+context length: 450905
+calling generate
+context length: 511674
+calling generate
+context length: 565324
+calling generate
+context length: 491447
+calling generate
+context length: 596261
+calling generate
+context length: 517397
+calling generate
+context length: 444465
+calling generate
+context length: 488746
+calling generate
+context length: 523584
+calling generate
+context length: 545212
+calling generate
+context length: 565970
+calling generate
+context length: 549107
+calling generate
+context length: 488794
+calling generate
+context length: 551946
+calling generate
+context length: 529846
+calling generate
+context length: 544413
+calling generate
+context length: 509569
+calling generate
+context length: 651295
+calling generate
+context length: 547580
+calling generate
+context length: 432477
+calling generate
+context length: 512177
+calling generate
+context length: 505649
+calling generate
+context length: 424086
+calling generate
+context length: 487788
+calling generate
+context length: 547349
+calling generate
+context length: 503238
+calling generate
+context length: 511839
+calling generate
+context length: 507555
+calling generate
+context length: 554781
+calling generate
+context length: 530037
+calling generate
+context length: 489683
+calling generate
+context length: 530317
+calling generate
+context length: 511316
+calling generate
+context length: 535233
+calling generate
+context length: 539662
+calling generate
+context length: 574560
+calling generate
+context length: 484036
+calling generate
+context length: 490524
+calling generate
+context length: 476813
+calling generate
+context length: 571905
+calling generate
+context length: 511282
+calling generate
+context length: 497842
+calling generate
+context length: 527043
+calling generate
+context length: 496020
+calling generate
+context length: 538887
+calling generate
+context length: 514057
+calling generate
+context length: 617833
+calling generate
+context length: 516038
+calling generate
+context length: 475220
+calling generate
